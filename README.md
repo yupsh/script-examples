@@ -28,6 +28,18 @@ cd file-stats
 go run main.go [directory]
 ```
 
+### 🔄 [pipe-closure](./pipe-closure/)
+Demonstrates how pipes are closed when downstream commands finish, showing:
+- Early termination with `head.Head()` and `tail.Tail()`
+- Handling infinite streams like `yes.Yes()`
+- Performance optimization through pipe closure
+- Preventing wasted computation in expensive pipelines
+
+```bash
+cd pipe-closure
+go run main.go
+```
+
 ## Common Patterns
 
 ### 1. Shell Loop → yupsh Pipeline with `While()`

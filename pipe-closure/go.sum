@@ -1,0 +1,16 @@
+github.com/gloo-foo/framework v0.0.3 h1:1ZmonNQ0ftuIrDEQ2G/mfY4qcODLyECI71UxtEgo1Fw=
+github.com/gloo-foo/framework v0.0.3/go.mod h1:p9P7iz84iZ4+c7BoOrVcKl7yuWVZ79eaCmWkM44FJ4c=
+github.com/gloo-foo/pipe v0.0.3 h1:kYPFh/8MTAxeATzy6r7Rh4HyLdRb+fHOamI5ghRwC9U=
+github.com/gloo-foo/pipe v0.0.3/go.mod h1:Mxe9K/WSNbV0AQItruRMNo5JEYGHjiMUfJR1sAg6nCY=
+github.com/yupsh/echo v0.0.3 h1:f0L5oRuIyP0AIKfzrblz6Hz/Unq5veZtMM0gRbWamjI=
+github.com/yupsh/echo v0.0.3/go.mod h1:QPm8eOZbCd0Dj2+b25rGgBVpdtwIk7wUqOFCPKcGhbY=
+github.com/yupsh/grep v0.0.3 h1:SIZelb+UHzMrpisNppjHCyDwEa15W2H9j/GjLkuoOUQ=
+github.com/yupsh/grep v0.0.3/go.mod h1:Ef3np/dvUtYk6Kw3Xbpp8ekqzWpBWlSrOV/tTEZap2o=
+github.com/yupsh/head v0.0.3 h1:YLjo0vx07b0JkmB0f0LMYUZlt4k22WUoVwpwtH0EYME=
+github.com/yupsh/head v0.0.3/go.mod h1:nXc8CW/oUS+5aUyVqZjMIyeoneRWcKdK/nAMLt99Gjw=
+github.com/yupsh/seq v0.0.3 h1:0LkgqfKoRMNaLD+PR7h/kadpF3VVFbXIuxFxv8dIU8g=
+github.com/yupsh/seq v0.0.3/go.mod h1:0uC1/HQ8HZwf+6IRZijZSkuiG0xiMs9G1zR/FGYftQY=
+github.com/yupsh/tail v0.0.3 h1:AZtE61NpbSArOce3OjdspGpjFDfNe0xYktfxmDe7vU0=
+github.com/yupsh/tail v0.0.3/go.mod h1:jS3Nz81gFIAxPrsg7uTE1RmMxdPHAZllQT9DkIAqzPs=
+github.com/yupsh/yes v0.0.3 h1:DX4kxGYlcy8dl0G35xLKRH6+TAbqwW/35SZmtt7Ot4E=
+github.com/yupsh/yes v0.0.3/go.mod h1:+LIaJpip7/DQwAhkBo86cRkN6XZ02qJzTrT7eJEEkM8=
